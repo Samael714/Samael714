@@ -4,7 +4,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=samael714&label=Profile%20views&color=0e75b6&style=flat" alt="samael714" /> </p>
 
-- 🔭 I’m currently working on **a P2P communication app**
+- 🔭 I’m currently working on **RESTful APIs**
 
 - 🌱 I’m currently learning **web development and system design**
 
